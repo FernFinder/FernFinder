@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Fernando. 👋 If you stumbled on this page it's still a WIP!
 
 <!--
 **FernFinder/FernFinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
